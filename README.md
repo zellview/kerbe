@@ -1,9 +1,8 @@
-
 ## zellviewKerbe 
 
 is a simple android-app.
 
-It shows the use of button and canvas.
+It shows the use of buttons and canvas.
 
 1. download the project-file [zellviewKerbe.aia](https://zellview.net/dl/zellviewKerbe.aia)
 
