@@ -1,11 +1,30 @@
 
 ## zellviewKerbe 
 
-is a simple android-app written in Blockly powered by [AppInventor2](http://ai2.appinventor.mit.edu)
-showing the use of image and drawing.
+is a simple android-app.
 
-You will need [companion app](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=de)
-on your android-phone.
+It shows the use of components button and canvas.
+
+1. download the project-file [zellviewKerbe.aia](https://zellview.net/dl/zellviewKerbe.aia)
+
+1. start [AppInventor2](http://ai2.appinventor.mit.edu)
+
+1. goto menu  
+__My Projects -> Import project(.aia) from my Computer__  
+![](Rsrc/selectaia.png)  
+and select __zellviewKerbe.aia__ from your download-directory.  
+Here we are.  
+
+1. goto menu  
+__Connect -> AI companion__  
+![](Rsrc/connectaicompanion.png)
+
+
+1. Search in Google-Play-Store for __AI2__ and install  
+__MIT AI2 Compnaion__  
+![](Rsrc/getai2companion.png)
+
+
 
 ## enjoy and happy coding
 
