@@ -4,7 +4,7 @@ is a simple android-app.
 
 It shows the use of buttons and canvas.
 
-1. download the project-file [zellviewKerbe.aia](https://github.com/kerbe/zellviewKerbe.aia)
+1. download the project-file [zellviewKerbe.aia](https://www.github.com/kerbe/zellviewKerbe.aia)
 
 1. start [AppInventor2](http://ai2.appinventor.mit.edu)
 
