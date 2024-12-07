@@ -1,8 +1,14 @@
 ## zellviewKerbe  
 
-is a simple android-app.
-
+is a simple android-app written in Blockly  
+created with MIT-App-Inventor.
 It shows the use of buttons and canvas.
+
+To install zellviewKerbe.apk click here  
+
+https://raw.githubusercontent.com/zellview/kerbe/master/zellviewKerbe.apk
+
+To develope in AppIventor follow these step: 
 
 1. download the project-file [zellviewKerbe.aia](https://github.com/zellview/kerbe/blob/master/zellviewKerbe.aia) 
 
